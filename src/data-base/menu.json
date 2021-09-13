@@ -1,0 +1,205 @@
+[
+
+    {
+        "id": "001",
+        "category": "Hamburguesa", 
+        "size": [{"value":"Sola","label":"Sola"}, {"value":"en combo", "label":"en combo"}],
+        "img": "https://i.ibb.co/k0LqYkc/burger.jpg",
+        "name": "smash spicy",
+        "ingredients": "Pan de papa, 2 carnes de 100 gr, queso cheddar, cebolla caramelizada, tomate, pepinillos (opcional) y albahaca",
+        "price": [9000, 13000],
+        "count": 1
+    },
+
+    {
+        "id": "002",
+        "category": "Hamburguesa",
+        "size": [{"value":"Sola","label":"Sola"}, {"value":"en combo", "label":"en combo"}],
+        "img": "https://i.ibb.co/k0LqYkc/burger.jpg",
+        "name": "cheese bacon spicy",
+        "ingredients": "Pan de papa, 2 carnes de 100gr, queso cheddar, doble tocineta, salsa de la casa, cebolla caramelizada, tomate, pepinillos (opcional) y albahaca",
+        "price": [12.000,16.000],
+        "count": 1
+    },
+
+    {
+        "id": "003",
+        "category": "Hamburguesa",
+        "size": [{"value":"Sola","label":"Sola"}, {"value":"en combo", "label":"en combo"}],
+        "img": "https://i.ibb.co/8dKSXZW/pi-a.jpg",
+        "name": "sweet smash spicy",
+        "ingredients": "Pan de papa, 2 carnes de 100gr, queso cheddar, tocineta, piña asada, salsa de la casa, cebolla caramelizada, tomate, pepinillos (opcional) y albahaca",
+        "price": [13.000, 16.500],
+        "count": 1
+    },
+
+    {
+        "id": "004",
+        "category": "Hamburguesa",
+        "size": [{"value":"Sola","label":"Sola"}, {"value":"en combo", "label":"en combo"}],
+        "img": "https://i.ibb.co/s1XQFj4/triple.jpg",
+        "name": "sweet smash spicy",
+        "ingredients": "Pan de papa, 3 carnes de 100gr, queso cheddar, triple tocineta, salsa de la casa, cebolla caramelizada, tomate, pepinillos (opcional) y albahaca",
+        "price": [17.000, 21.000],
+        "count": 1
+    },
+
+    {
+        "id": "005",
+        "category": "Hamburguesa",
+        "size": [{"value":"en combo", "label":"en combo"}],
+        "img": "https://i.ibb.co/k0LqYkc/burger.jpg",
+        "name": "menu infantil",
+        "ingredients": "Pan de papa, carne de 100gr, queso, tocineta, jugo, papas y dulce",
+        "price": [12.000],
+        "count": 1
+    },
+
+    {
+        "id": "006",
+        "category": "perro",
+        "size": [{"value":"Sola","label":"Sola"}, {"value":"en combo", "label":"en combo"}],
+        "img": "https://i.ibb.co/4Tfm50H/perro.jpg",
+        "name": "hot dog spicy",
+        "ingredients": "Pan de papa, salchicha americana, tocineta, salsa de queso cheddar, salsa de la casa y cebolla caramelizada",
+        "price": [9.000, 14.500],
+        "count": 1
+    },
+
+    {
+        "id": "007",
+        "category": "papas",
+        "size": [{"value":"Sola","label":"Sola"}],
+        "img": "https://i.ibb.co/DYmZwc5/papitas.jpg",
+        "name": "papas",
+        "ingredients": "300gr de papa rizada, tocineta crispy, chicharrón, salchicha americana, salsa cheddar y salsa de la casa",
+        "price": [15.000],
+        "count": 1
+    },
+
+    {
+        "id": "008",
+        "category": "alitas",
+        "size": [{"value":"Sola","label":"Sola"}],
+        "sauce": [{"value":"salsa BBQ de whisky", "label": "salsa BBQ de whisky"}, {"value":"salsa bbq picante", "label": "salsa bbq picante"}],
+        "accompaniment": [{"value":"zanahoria", "label":"zanahoria"}, {"value":"apio", "label":"apio"}],
+        "img": "https://i.ibb.co/BCc0nNk/alitas.jpg",
+        "name": "alitas spicy",
+        "ingredients": "10 piezas de alitas bañadas en la salsa que escojas, escoges el acompañamiento, salsa ranch, bebida y papitas.",
+        "price": [18.000],
+        "count": 1
+    },
+
+    {
+        "id": "009",
+        "category": "alitas",
+        "size": [{"value":"Sola","label":"Sola"}],
+        "accompaniment": [{"value":"zanahoria", "label":"zanahoria"}, {"value":"apio", "label":"apio"}],
+        "sauce": [{"value":"salsa BBQ de whisky", "label": "salsa BBQ de whisky"}, {"value":"salsa bbq picante", "label": "salsa bbq picante"}],
+        "img": "https://i.ibb.co/BCc0nNk/alitas.jpg",
+        "name": "alitas spicy",
+        "ingredients": "20 piezas de alitas bañadas en la salsa que escojas, escoges el acompañamiento, salsa ranch, bebida y papitas.",
+        "price": [32.000],
+        "count": 1
+    },
+
+    {
+        "id": "010",
+        "category": "adiciones",
+        "img": "https://i.ibb.co/Ptwtddp/jalape-os.jpg",
+        "name": "jalapeños",
+        "price": [1.500],
+        "count": 1
+    },
+
+    {
+        "id": "011",
+        "category": "adiciones",
+        "img": "https://i.ibb.co/x8n0Cy8/queso.jpg",
+        "name": "queso",
+        "price": [1.500],
+        "count": 1
+    },
+
+    {
+        "id": "012",
+        "category": "adiciones",
+        "img": "https://i.ibb.co/D4W3k35/tocineta.jpg",
+        "name": "tocineta",
+        "price": [2.500],
+        "count": 1
+    },
+
+    {
+        "id": "013",
+        "category": "adiciones",
+        "img": "https://i.ibb.co/T8rJLJj/queso-Cheddar.jpg",
+        "name": "salsa queso cheddar",
+        "price": [3.000],
+        "count": 1
+    },
+
+    {
+        "id": "014",
+        "category": "adiciones",
+        "img": "https://i.ibb.co/G7Dc75T/chicharron.jpg",
+        "name": "chicharron",
+        "price": [3.500],
+        "count": 1
+    },
+
+    {
+        "id": "015",
+        "category": "bebida",
+        "img": "https://i.ibb.co/xq33qdv/cocaCola.jpg",
+        "name": "coca cola",
+        "price": [2.500],
+        "count": 1
+    },
+
+    {
+        "id": "016",
+        "category": "bebida",
+        "img": "https://i.ibb.co/CVTvhVf/cocaZero.jpg",
+        "name": "coca cola zero",
+        "price": [2.500],
+        "count": 1
+    },
+
+    {
+        "id": "017",
+        "category": "bebida",
+        "img": "https://i.ibb.co/VjqPKD9/quatro.jpg",
+        "name": "quatro",
+        "price": [2.500],
+        "count": 1
+    },
+
+    {
+        "id": "018",
+        "category": "bebida",
+        "img": "https://i.ibb.co/7JDffHR/kola-Roman.png",
+        "name": "kola roman",
+        "price": [2.500],
+        "count": 1
+    },
+
+    {
+        "id": "019",
+        "category": "bebida",
+        "img": "https://i.ibb.co/Cm5WJpQ/sinGAs.jpg",
+        "name": "agua sin gas",
+        "price": [2.000],
+        "count": 1
+    },
+
+    {
+        "id": "020",
+        "category": "bebida",
+        "img": "https://i.ibb.co/s1XJKwq/conGas.jpg",
+        "name": "agua con gas",
+        "price": [2.000],
+        "count": 1
+    }
+
+]

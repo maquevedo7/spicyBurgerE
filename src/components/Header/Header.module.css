@@ -1,0 +1,84 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.header {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.headerDesktop {
+
+    display: none;
+
+}
+
+.btn {
+
+    font-size: 50px;
+    color: black;
+    background-color: blanchedalmond;
+    margin: 0.25em;
+    display:inline-block;
+
+}
+
+.logo {
+
+    background-image: url(https://i.ibb.co/3mqVSWs/navBar.png);
+    height: 73px;
+    width: 100vw;
+
+}
+
+@media (max-width: 759px) {
+
+    .btn {
+
+        font-size: 30px;
+
+    }
+
+}
+
+@media (min-width: 760px) {
+
+    .logo {
+
+        background-image: url(https://i.ibb.co/N9V77GG/nav-Bar-Tab.png);
+        height: 135px;
+
+    }
+
+}
+
+@media (min-width: 1024) {
+
+
+    .logo {
+
+        background-image: url(https://i.ibb.co/wWDR86h/navBarD.png);
+        height: 135px;
+
+    }
+
+    .header {
+
+        display: none;
+
+    }
+
+    .headerDesktop {
+
+        display: flex;
+        
+
+    }
+
+    
+}
